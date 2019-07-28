@@ -1,4 +1,5 @@
 #!/bin/bash 
+# list ec2 instances in all available aws regions
 
 set -o nounset
 
